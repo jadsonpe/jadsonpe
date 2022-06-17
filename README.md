@@ -17,7 +17,7 @@ HABILIDADES:
   <li>:books: Conhecimentos:</li>
   <br/>
   <p align="left">
-  <img src="https://img.shields.io/badge/php-4F5B93?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/gulp-cf4647?style=for-the-badge&logo=gulp&logoColor=white">
+  <img src="https://img.shields.io/badge/php-4F5B93?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/gulp-cf4647?style=for-the-badge&logo=gulp&logoColor=white"><img src="https://img.shields.io/badge/discord-0053CC?style=for-the-badge&logo=discord&logoColor=white">
   </p>
   
   <li>:toolbox: Ferramentas:</li>
