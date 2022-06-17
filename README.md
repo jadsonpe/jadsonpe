@@ -8,6 +8,7 @@ I'm Graduated in Information Systems Management, work as Backend Developer at SJ
   <a href="https://github.com/jadsonpe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jadsonpe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonpe&layout=compact&langs_count=7&theme=midnight-purple"/> -->
+  </a>
 </div>   
   
 HABILIDADES:
@@ -23,7 +24,7 @@ HABILIDADES:
   <li>:toolbox: Ferramentas:</li>
   <br/>
   <p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/jira-0053CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/discord-0053CC?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/jira-0053CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/discord-0053CC?style=for-the-badge&logo=discord&logoColor=white">
   </p>
 </ul>
 
