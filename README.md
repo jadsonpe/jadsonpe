@@ -2,7 +2,7 @@
 ## Hi 👋
 
 "My name is Jadson"
-I'm Graduated in Information Systems Management, work as Backend Developer at SJCC.
+I'm Graduated in Information Systems Management, I'm work as Backend Developer at SJCC.
 
 <div align="center">
   <a href="https://github.com/jadsonpe">
